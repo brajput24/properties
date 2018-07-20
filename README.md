@@ -1,1 +1,1 @@
-# hallwaze-properties
+# properties
